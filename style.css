@@ -1,0 +1,22 @@
+body{
+	margin:0;
+	padding:0;
+	background-color: gray;
+}
+.sobuj{
+	width: 500px;
+	height: 300px;
+	background-color: green;
+	margin: auto;
+	overflow:hidden;
+	margin-top: 150px;
+	border-radius: 10%;
+}
+.lal{
+	width: 200px;
+	height: 200px;
+	border-radius: 50%;
+	background-color: red;
+	margin: auto;
+	margin-top: 50px;
+}
